@@ -1,0 +1,7 @@
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\Week2\bin\Debug\Week2.exe.config
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\Week2\bin\Debug\Week2.exe
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\Week2\bin\Debug\Week2.pdb
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\Week2\obj\Debug\Week2.csprojAssemblyReference.cache
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\Week2\obj\Debug\Week2.csproj.CoreCompileInputs.cache
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\Week2\obj\Debug\Week2.exe
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\Week2\obj\Debug\Week2.pdb
